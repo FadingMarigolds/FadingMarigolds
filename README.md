@@ -1,4 +1,3 @@
-```
 <p align="center"> 
 <img src="https://files.catbox.moe/7y9vux.jpg" width="1000" 
   height="500"/>
@@ -20,11 +19,8 @@
 </h6>
 </p>
 </br>
-
 <img src="https://files.catbox.moe/qjbc8x.png" width="1200" 
   height="500"/>
-
-      
 </p>
  <img src="https://files.catbox.moe/2lwx0x.jpg"
   align="left"
@@ -41,4 +37,3 @@
 <h5><align="left"> Roblox games that I love: Forsaken, Depth Spelunking, Die of Death, Evade, Exiled, PANIK.</align></h5></h6>
 <h5><align="left">I also know Hsr!</align></h5></h6>
 </p>
-```
