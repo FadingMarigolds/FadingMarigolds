@@ -30,7 +30,7 @@
 <h3 align="center"><strong><u>About Me!</u></strong> <img src="https://files.catbox.moe/cvsfdk.gif"/>
 <h6 align="center">Brought to you by the Telamon Chaos Institute.
 <h5><align="left"> I enjoy drawing sometimes. </align></h5></h6>
-<h5><align="left"> I also enjoy writting, and roplaying. (This doesn't mean come up and randomlly start RPing) </align></h5></h6>
+<h5><align="left"> I also enjoy writting, and roleplaying. (This doesn't mean come up and randomlly start RPing) </align></h5></h6>
 <h5><align="left"> Please don't be scared of me, I always welcome converstaion. </align></h5></h6>
 <h3 align="center"><strong><u>Games I play!</u></strong> <img src="https://files.catbox.moe/pk7n76.png"width="160" height="80" /></h3>
 <h6 align="center"> 1v1 me on the Heights.  
