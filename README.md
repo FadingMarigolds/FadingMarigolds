@@ -7,7 +7,7 @@
   align="right"
 />
 <h3 align="center"><strong><u>BYFI!</u></strong><img src="https://files.catbox.moe/5w5y3y.gif" width="30" height="60" /><img src="https://files.catbox.moe/i1avs0.gif"/></h3>
-<h6 align="center"> Howdy! How are you enjoying this experience?
+<h6 align="center"> How are you enjoying this experience?~ ⭐ 
     <h5 align="center">!! He/Him Prns !! I'm a Adult, Minors DNI !!
 <h5 align="center">   <img src="https://files.catbox.moe/9gbdon.gif" width="160" height="80" /> <img src="https://files.catbox.moe/msqyma.gif" width="130" height="38" /> 
 <h5><ul><align="left"> 1. English IS NOT my first language, it's my fourth.</h5>
